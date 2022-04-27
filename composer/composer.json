@@ -1,0 +1,16 @@
+{
+    "name": "vtslele/composer",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Vtslele\\Composer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "vts",
+            "email": "vtslele@qq.com"
+        }
+    ],
+    "require": {}
+}

@@ -1,0 +1,16 @@
+{
+    "name": "mac/composer",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "wangle",
+            "email": "wangle@vchangyi.com"
+        }
+    ],
+    "require": {}
+}

@@ -6,8 +6,10 @@
  * Time: 15:18
  */
 
+use Vtslele\Composer\App\Demo;
+
 require "vendor/autoload.php";
 
-$hello = new \App\Demo();
+$hello = new Demo();
 
-$hello->Test();
+$hello->Hello();

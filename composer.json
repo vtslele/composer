@@ -3,13 +3,13 @@
     "type": "project",
     "autoload": {
         "psr-4": {
-            "App\\": "src/"
+            "Vtslele\\Composer\\": "src/"
         }
     },
     "authors": [
         {
-            "name": "wangle",
-            "email": "wangle@vchangyi.com"
+            "name": "vts",
+            "email": "vtslele@qq.com"
         }
     ],
     "require": {}

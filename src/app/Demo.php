@@ -1,6 +1,6 @@
 <?php
 
-namespace Vtslele\Composer\App;
+namespace Vts\App;
 
 class Demo
 {

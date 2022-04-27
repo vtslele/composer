@@ -9,12 +9,12 @@ class ComposerStaticInita3eb528bcfce6cbb18ab461a383ae0c5
     public static $prefixLengthsPsr4 = array (
         'V' => 
         array (
-            'Vtslele\\Composer\\' => 17,
+            'Vts\\' => 4,
         ),
     );
 
     public static $prefixDirsPsr4 = array (
-        'Vtslele\\Composer\\' => 
+        'Vts\\' => 
         array (
             0 => __DIR__ . '/../..' . '/src',
         ),

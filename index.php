@@ -6,7 +6,7 @@
  * Time: 15:18
  */
 
-use Vtslele\Composer\App\Demo;
+use Vts\App\Demo;
 
 require "vendor/autoload.php";
 
